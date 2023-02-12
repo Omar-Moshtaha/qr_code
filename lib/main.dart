@@ -5,7 +5,7 @@ import 'package:untitled/access_internal_storage_file.dart';
 
 void main()async {
   WidgetsFlutterBinding.ensureInitialized();
-
+print("omar");
 runApp(      DevicePreview(builder: (context) => MyApp()));
 }
 
